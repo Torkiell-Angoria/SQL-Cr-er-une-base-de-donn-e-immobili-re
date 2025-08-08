@@ -27,7 +27,7 @@ Le projet **DATAImmo** s’inscrit dans une démarche d’amélioration de la ge
 
 - **Dictionnaire des données** : description détaillée des champs clés issus des trois sources de données.
 
-![dico](https://github.com/Torkiell-Angoria/SQL-Cr-er-une-base-de-donn-e-immobili-re/blob/main/img/Sch%C3%A9ma%20capture.PNG)
+![dico](https://github.com/Torkiell-Angoria/SQL-Cr-er-une-base-de-donn-e-immobili-re/blob/main/img/dico_data.gif)
   
 - **Schéma relationnel** : modèle de base de données relationnelle respectant la 3NF, intégrant les nouvelles données.
 
